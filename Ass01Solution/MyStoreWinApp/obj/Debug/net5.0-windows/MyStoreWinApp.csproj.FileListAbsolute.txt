@@ -1,0 +1,8 @@
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csprojAssemblyReference.cache
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\FPTU\AssignmentProject\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache

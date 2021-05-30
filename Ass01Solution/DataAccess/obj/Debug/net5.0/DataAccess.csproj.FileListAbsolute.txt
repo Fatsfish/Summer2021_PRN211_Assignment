@@ -10,3 +10,18 @@ D:\FPTU\AssignmentProject\Ass01Solution\3. Data Layer\DataAccess\obj\Debug\net5.
 D:\FPTU\AssignmentProject\Ass01Solution\3. Data Layer\DataAccess\obj\Debug\net5.0\DataAccess.dll
 D:\FPTU\AssignmentProject\Ass01Solution\3. Data Layer\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 D:\FPTU\AssignmentProject\Ass01Solution\3. Data Layer\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\FPTU\AssignmentProject\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb

@@ -10,3 +10,15 @@ D:\FPTU\AssignmentProject\Ass01Solution\2. Business Layer\BusinessObject\obj\Deb
 D:\FPTU\AssignmentProject\Ass01Solution\2. Business Layer\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
 D:\FPTU\AssignmentProject\Ass01Solution\2. Business Layer\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
 D:\FPTU\AssignmentProject\Ass01Solution\2. Business Layer\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csprojAssemblyReference.cache
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\FPTU\AssignmentProject\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb

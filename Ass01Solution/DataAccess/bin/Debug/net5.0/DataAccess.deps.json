@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "DataAccess/1.0.0": {
+        "dependencies": {
+          "BusinessObject": "1.0.0"
+        },
         "runtime": {
           "DataAccess.dll": {}
+        }
+      },
+      "BusinessObject/1.0.0": {
+        "runtime": {
+          "BusinessObject.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessObject/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

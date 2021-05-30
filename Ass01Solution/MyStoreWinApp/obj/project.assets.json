@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "BusinessObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BusinessObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessObject.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BusinessObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BusinessObject/1.0.0": {
+      "type": "project",
+      "path": "../BusinessObject/BusinessObject.csproj",
+      "msbuildProject": "../BusinessObject/BusinessObject.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "BusinessObject >= 1.0.0",
+      "DataAccess >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User-PC\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\FPTU\\AssignmentProject\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPTU\\AssignmentProject\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
+            },
+            "D:\\FPTU\\AssignmentProject\\Ass01Solution\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\FPTU\\AssignmentProject\\Ass01Solution\\DataAccess\\DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
